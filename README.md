@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dawnlum
-- 👀 I’m interested in ...Spark
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @buttery
+- 👀 I’m interested in Spark
+- 🌱 I’m currently learning beautifulsoup
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
