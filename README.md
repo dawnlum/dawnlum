@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @buttery
-- 👀 I’m interested in Spark
+- 👀 I’m interested in your grandma's secret recipe
 - 🌱 I’m currently learning beautifulsoup
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
